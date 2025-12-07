@@ -103,7 +103,3 @@ Notas:
 - `API.py`: script de download via CDS API.
 - `analysis.py`: geração de climatologia, anomalias e gráficos.
 - `README.md`: este guia do projeto.
-
-## Próximos passos
-- Adicionar notebooks ou scripts para leitura dos NetCDF baixados, cálculo de estatísticas e geração dos gráficos.
-- Documentar dependências extras usadas na análise.
